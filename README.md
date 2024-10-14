@@ -1,0 +1,3 @@
+Hello, this is a machine learning model, I've created from ground. It's not
+perfect yet. Because it's predicting 95% are not in credit risk, but 35% in
+credit risk, so I'm working on it...
